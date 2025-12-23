@@ -50,9 +50,9 @@ Rectifier with filter
 <img width="276" height="210" alt="image" src="https://github.com/user-attachments/assets/19b389e7-2242-4230-8c52-774a9f695747" />
 
 WAVEFORM:
+<img width="1920" height="1080" alt="Screenshot (132)" src="https://github.com/user-attachments/assets/95046181-744e-45f4-9efb-025a24636082" />
+<img width="1920" height="1080" alt="Screenshot (127)" src="https://github.com/user-attachments/assets/58f34a20-a5da-450f-9c06-9ae3f54374bf" />
 
-![Uploading Screenshot (132).png…]()
-![Uploading Screenshot (127).png…]()
 
 RESULT:
 
